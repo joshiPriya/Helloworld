@@ -1,7 +1,7 @@
 node {
     
  stage('Git checkout'){
-	git 'https://github.com/ValaxyTech/hello-world.git'
+	git 'https://github.com/joshiPriya/Helloworld.git'
 }
 
 stage('compile-package')
